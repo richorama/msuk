@@ -4,6 +4,8 @@
 * [Microsoft Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events.
   * [OpenHacks](https://www.microsoft.com/en-gb/events/#Workshop+Microsoft_Led+Microsoft_Azure+Microsoft_Azure_-_App_Modernisation) - 3-day practical workshops to learn Azure Services by completing challenges.
   * [Online Data Centre Tours](https://www.microsoft.com/en-gb/events/#Live_Webinar+Microsoft_Led+Online+Microsoft_Azure_-_Infrastructure) - Take a virtual tour of our data centres.
+  * [Microsoft Immersion Workshops](https://www.microsoft.com/en-gb/events/microsoft-immersion-workshops/#digital-and-application-innovation) - Partner-led online workshops.
+ 
 * [Twitter](https://twitter.com/msdevUK) - MS Dev UK Twitter account
 
 ---
