@@ -1,4 +1,4 @@
-## Events
+# Events
 
 
 * [OpenHacks](https://www.microsoft.com/en-gb/events/#Workshop+Microsoft_Led+Microsoft_Azure+Microsoft_Azure_-_App_Modernisation) - 3-day practical workshops to learn Azure Services by completing challenges. `UK`
@@ -9,7 +9,7 @@
 
 * [All Microsoft UK Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events. `UK`
 
-## Video
+# Video
 
 * [LunchBytes](https://learn.microsoft.com/en-us/shows/lunchbytes/) - Live one hour deep-dives into Azure topics by the Microsoft UK team. `UK`
 
@@ -17,11 +17,11 @@
 
 * [GitHub Videos](https://resources.github.com/videos/) - Browse the GitHub video library.
 
-## Podcasts
+# Podcasts
 
 * [Azure Podcast](https://azpodcast.azurewebsites.net/) - Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello work at Microsoft in the cloud and services area.
 
-## Documentation
+# Documentation
 
 * [Microsoft Learn for Azure](https://learn.microsoft.com/en-gb/training/azure/) - Microsoft learning paths for Azure.
 
@@ -37,13 +37,13 @@
 
 * [GitHub Docs](https://docs.github.com/en) - Learn how to use GitHub.
 
-## Tools
+# Tools
 
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-gb/pricing/calculator/) - Estimate the cost of Azure products and services.
 
 * [Azure Speed Test](https://richorama.github.io/AzureSpeedTest2/) - Find your nearest Azure data centre.
 
-## Connect
+# Connect
 
 * [Microsoft.Source](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/) - Sign up for the Microsoft.Source newsletter to receive a regular digest of relevant technical content, events, and training. `UK`
 
