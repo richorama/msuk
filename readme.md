@@ -29,6 +29,8 @@
 
 * [GitHub Videos](https://resources.github.com/videos/) - Browse the GitHub video library.
 
+* [GitHub Docs](https://docs.github.com/en) - Learn how to use GitHub.
+
 ## Connect
 
 * [Microsoft.Source](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/) - Sign up for the Microsoft.Source newsletter to receive a regular digest of relevant technical content, events, and training.
