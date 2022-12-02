@@ -10,7 +10,6 @@
 
 * [All Microsoft UK Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events.
 
----
 
 ## Resources
 
@@ -28,7 +27,7 @@
 
 * [Azure developer documentation](https://learn.microsoft.com/en-GB/azure/developer/) - Find the languages and tools you need to develop on Azure.
 
----
+* [GitHub Videos](https://resources.github.com/videos/) - Browse the GitHub video library.
 
 ## Connect
 
