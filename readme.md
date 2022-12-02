@@ -17,6 +17,8 @@
 
 * [GitHub Videos](https://resources.github.com/videos/) - Browse the GitHub video library.
 
+* [Twitch](https://www.twitch.tv/microsoftdeveloper) - Microsoft Developer Twitch Channel.
+
 # Podcasts
 
 * [The Azure Podcast](https://azpodcast.azurewebsites.net/) - Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello work at Microsoft in the cloud and services area.
