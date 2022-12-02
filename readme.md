@@ -26,6 +26,8 @@
 
 * [Browse code samples](https://learn.microsoft.com/en-GB/samples/browse/?products=azure) - Get started with Microsoft developer tools and technologies. Explore our samples and discover the things you can build.
 
+* [Azure developer documentation](https://learn.microsoft.com/en-GB/azure/developer/) - Find the languages and tools you need to develop on Azure.
+
 ---
 
 ## Connect
