@@ -1,5 +1,3 @@
-# Microsoft UK Azure Developer Resources
-
 * [LunchBytes](https://learn.microsoft.com/en-us/shows/lunchbytes/) - One hour deep-dives into Azure topics by the Mirosoft UK team.
 * [Microsoft Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events.
   * [OpenHacks](https://www.microsoft.com/en-gb/events/#Workshop+Microsoft_Led+Microsoft_Azure+Microsoft_Azure_-_App_Modernisation) - 3-day practical workshops to learn Azure Services by completing challenges.
