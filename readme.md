@@ -19,7 +19,7 @@
 
 # Podcasts
 
-* [Azure Podcast](https://azpodcast.azurewebsites.net/) - Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello work at Microsoft in the cloud and services area.
+* [The Azure Podcast](https://azpodcast.azurewebsites.net/) - Cynthia Kreng, Kendall Roden, Cale Teeter, Evan Basalik, Russell Young & Sujit D'Mello work at Microsoft in the cloud and services area.
 
 # Documentation
 
