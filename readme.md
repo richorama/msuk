@@ -1,4 +1,4 @@
-## Events
+## UK Events
 
 * [LunchBytes](https://learn.microsoft.com/en-us/shows/lunchbytes/) - Live one hour deep-dives into Azure topics by the Microsoft UK team.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Central Resources
+## Resources
 
 * [Microsoft Learn for Azure](https://learn.microsoft.com/en-gb/training/azure/) - Microsoft learning paths for Azure.
 
