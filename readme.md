@@ -1,6 +1,3 @@
-
-
-
 ## Events
 
 * [LunchBytes](https://learn.microsoft.com/en-us/shows/lunchbytes/) - Live one hour deep-dives into Azure topics by the Microsoft UK team.
@@ -13,6 +10,7 @@
 
 * [All Microsoft UK Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events.
 
+---
 
 ## Central Resources
 
@@ -28,6 +26,7 @@
 
 * [Browse code samples](https://learn.microsoft.com/en-GB/samples/browse/?products=azure) - Get started with Microsoft developer tools and technologies. Explore our samples and discover the things you can build.
 
+---
 
 ## Connect
 
@@ -35,9 +34,3 @@
 
 * [Twitter](https://twitter.com/msdevUK) - MS Dev UK Twitter account
 
-
----
-
-Maintained by [Richard Astbury](https://twitter.com/richorama).
-
-[Contribute](https://github.com/richorama/msuk) to this page.
