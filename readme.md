@@ -45,7 +45,7 @@
 
 * [Azure Speed Test](https://richorama.github.io/AzureSpeedTest2/) - Find your nearest Azure data centre.
 
-* [Microsoft UK Developers](https://www.microsoft.com/en-gb/developers/) = A place to find resources that will help you build new tech and professional skills.
+* [Microsoft UK Developers](https://www.microsoft.com/en-gb/developers/) - A place to find resources that will help you build new tech and professional skills. `UK`
 
 # Connect
 
