@@ -7,6 +7,8 @@
 
 * [Microsoft Immersion Workshops](https://www.microsoft.com/en-gb/events/microsoft-immersion-workshops/#digital-and-application-innovation) - Partner-led online workshops. `UK`
 
+* [Microsoft Azure Innovation Forum](https://info.microsoft.com/UK-AzureAppInno-CATALOG-FY23-01Jan-11-MicrosoftAzureInnovationForumHowintegrationfuelsgrowthandinnovation-AID-3054946-SRDEM132285_Catalog-Display-Page.html) - Find all of our upcoming and on-demand Azure Innovation Forum webinars.
+
 * [All Microsoft UK Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events. `UK`
 
 # Video
