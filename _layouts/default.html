@@ -11,12 +11,23 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <style>
+      .azure-logo {
+        margin-right: 100px;
+        width: 200px;
+        float: left;
+      }
+
+      .project-name .project-tagline {
+        text-align: left;
+      }
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <img src="azure-logo.png" alt="Azure Logo" />
+      <img src="azure-logo.png" alt="Azure Logo" class="azure-logo" />
       <h1 class="project-name">Resources for UK Azure Developers</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
