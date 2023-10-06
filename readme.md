@@ -11,6 +11,8 @@
 
 * [All Microsoft UK Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events. `UK`
 
+* [Microsoft Reactor Events](https://developer.microsoft.com/en-us/reactor/) - Join Microsoft Reactor and learn from developers.
+
 # Video
 
 * [LunchBytes](https://learn.microsoft.com/en-us/shows/lunchbytes/) - Live one hour deep-dives into Azure topics by the Microsoft UK team. `UK`
