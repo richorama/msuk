@@ -7,8 +7,6 @@
 
 # Video
 
-* [LunchBytes](https://learn.microsoft.com/en-us/shows/lunchbytes/) - Live one hour deep-dives into Azure topics by the Microsoft UK team. `UK`
-
 * [Azure Fridays](https://learn.microsoft.com/en-gb/shows/azure-friday/) - Join Scott Hanselman, Donovan Brown, or Lara Rubbelke as they host the engineers who build Azure, demo it, answer questions, and share insights.
 
 * [GitHub Videos](https://resources.github.com/videos/) - Browse the GitHub video library.
@@ -40,8 +38,6 @@
 * [Azure Pricing Calculator](https://azure.microsoft.com/en-gb/pricing/calculator/) - Estimate the cost of Azure products and services.
 
 * [Azure Speed Test](https://richorama.github.io/AzureSpeedTest2/) - Find your nearest Azure data centre.
-
-* [Microsoft UK Developers](https://www.microsoft.com/en-gb/developers/) - A place to find resources that will help you build new tech and professional skills. `UK`
 
 # Connect
 
