@@ -1,15 +1,7 @@
 # Events
 
 
-* [OpenHacks](https://www.microsoft.com/en-gb/events/#Workshop+Microsoft_Led+Microsoft_Azure+Microsoft_Azure_-_App_Modernisation) - 3-day practical workshops to learn Azure Services by completing challenges. `UK`
-
-* [Microsoft Immersion Workshops](https://www.microsoft.com/en-gb/events/microsoft-immersion-workshops/#digital-and-application-innovation) - Partner-led online workshops. `UK`
-
 * [Microsoft Azure Innovation Forum](https://info.microsoft.com/UK-AzureAppInno-CATALOG-FY23-01Jan-11-MicrosoftAzureInnovationForumHowintegrationfuelsgrowthandinnovation-AID-3054946-SRDEM132285_Catalog-Display-Page.html) - Find all of our upcoming and on-demand Azure Innovation Forum webinars. `UK`
-
-* [Azure DiY](https://www.linkedin.com/company/azure-diy/) - An educational series delivered by the product engineering and product management teams to spark the diverse possibilities of leveraging Microsoft Azure technologies.
-
-* [All Microsoft UK Events](https://www.microsoft.com/en-gb/events/) - The complete catalogue of all Microsoft UK events. `UK`
 
 * [Microsoft Reactor Events](https://developer.microsoft.com/en-us/reactor/) - Join Microsoft Reactor and learn from developers.
 
