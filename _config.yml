@@ -2,5 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Azure Developer Resources
-description: Links to events, videos, podcasts and other resources useful to Azure developers in the UK
+lang: en-GB
+title: Microsoft Apps and AI Resources
+description: Current Microsoft resources for AI, agents, applications, automation, data and cloud
